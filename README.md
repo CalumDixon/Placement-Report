@@ -1,2 +1,2 @@
 # Placement-Report
-[Read Report](https://calumdixon.github.io/Placement-Report/index.html)
+[Read Report](https://calumdixon.github.io/placement-report/index.html)
