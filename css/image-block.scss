@@ -1,0 +1,24 @@
+.image-block {
+  width:100%;
+  margin: {
+    top:32px;
+    bottom:32px;
+  }
+}
+
+.image-block img {
+  width:100%;
+  border-radius: 6px;
+}
+
+.header-image {
+  margin-top: 0;
+}
+
+@media (max-width:700px) {
+
+  .header-image {
+    margin-top: 0;
+  }
+
+}

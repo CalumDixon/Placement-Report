@@ -1,0 +1,21 @@
+.intro-block {
+  margin-top: 32px;
+  margin-bottom: 32px; }
+
+h1 {
+  font-size: 38px;
+  line-height: 140%;
+  font-family: 'inter', sans-serif;
+  font-weight: 500;
+  color: #303846; }
+
+.intro-block h3 {
+  font-size: 24px;
+  font-family: 'inter', sans-serif;
+  font-weight: 500;
+  color: #8891A1;
+  margin-top: 12px; }
+
+@media (max-width: 700px) {
+  h1 {
+    font-size: 34px; } }

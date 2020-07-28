@@ -1,0 +1,44 @@
+.content-wrapper {
+  width: 900px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 auto;
+  background: white;
+  margin-top: 80px; }
+
+.report-wrapper {
+  width: calc(100%/3*2);
+  background: white;
+  padding-right: 40px; }
+
+.report-navigation {
+  width: calc(100%/3); }
+
+@media (max-width: 1000px) {
+  .content-wrapper {
+    padding: 0;
+    width: 600px;
+    margin-top: calc(67px + 48px); }
+
+  .report-navigation {
+    padding: 0;
+    display: none; }
+
+  .report-wrapper {
+    padding: 0;
+    width: 100%; } }
+@media (max-width: 700px) {
+  .content-wrapper {
+    padding: 0;
+    width: 100%;
+    margin-top: 24px;
+    padding-left: 28px;
+    padding-right: 28px;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    margin-top: calc(67px + 32px); }
+
+  .report-wrapper {
+    padding: 0;
+    width: 100%; } }
